@@ -1,0 +1,106 @@
+{
+  "operators": [
+    {
+      "code": 1,
+      "description": "Claro"
+    },
+    {
+      "code": 2,
+      "description": "DirectTV"
+    },
+    {
+      "code": 3,
+      "description": "Univisa"
+    },
+    {
+      "code": 4,
+      "description": "Movistar"
+    },
+    {
+      "code": 5,
+      "description": "CNT Recargas"
+    },
+    {
+      "code": 6,
+      "description": "CNT Pines"
+    },
+    {
+      "code": 7,
+      "description": "AXESO PIN"
+    },
+    {
+      "code": 8,
+      "description": "CNT MOVILES 450"
+    },
+    {
+      "code": 9,
+      "description": "TUENTI"
+    },
+    {
+      "code": 10,
+      "description": "TVCABLE"
+    },
+    {
+      "code": 11,
+      "description": "PDV MOVIL POST"
+    },
+    {
+      "code": 12,
+      "description": "EASY TAXI"
+    }
+  ],
+  "consultrequests": [
+    {
+      "invInvoiceInformation": {
+        "cusAddress": "",
+        "cusAltPhone": "",
+        "cusDocumentId": "",
+        "cusEmail": "",
+        "cusFName": "",
+        "cusLName": "",
+        "cusMName": "",
+        "cusPhone": "",
+        "cusType": "",
+        "cusTypeDocument": ""
+      },
+      "CarAgency": 4077,
+      "CarAuthorization": 0,
+      "CarCarrier": "45",
+      "CarChannel": "006",
+      "CarDateProcess": "May 17, 2021 9:29:33 PM",
+      "CarKeyCarrier": "c0m",
+      "CarOperator": "666",
+      "CarPhoTarTotal": "300",
+      "CarPhoneNumber": "0000000000",
+      "CarProductCode": "06",
+      "CarSecurity": 253,
+      "CarSequential": 803,
+      "CarSequentialSARA": 0,
+      "CarTerminal": "VBW2",
+      "CarTypeTransaction": "01",
+      "id": 1
+    }
+  ],
+  "customerexpressresponses": [
+      {
+        "id": 1,
+        "CarAuthorization": null,
+        "CarCarrier": "45",
+        "CarChannel": "006",
+        "CarDateProcess": "May 17, 2021 9:29:33 PM",
+        "CarKeyCarrier": null,
+        "CarOperator": null,
+        "CarPhoTarTotal": null,
+        "CarPhoneNumber": null,
+        "CarProductCode": null,
+        "CarSecurity": 0,
+        "CarSequential": 0,
+        "CarSequentialSARA": 19054,
+        "CarTerminal": null,
+        "CarTypeTransaction": null,
+        "errNumber": 0,
+        "errDescription" : "Transacción existosa",
+        "Success": true
+      }
+  ]
+}
